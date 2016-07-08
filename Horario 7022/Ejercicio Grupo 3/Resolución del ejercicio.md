@@ -1,17 +1,14 @@
 DESARROLLO DEL PROBLEMA: 
 
-CANCHANYA PAUCAR, VANESSA CRISTINA
-
-MURO JARA, MAYRA ELOISA
-
-MATOS ALMORA, GERARDO ANDRÉ
-
-ROMERO QUEVEDO, ALEXANDRA YSABEL
+CANCHANYA PAUCAR, VANESSA CRISTINA 
+MURO JARA, MAYRA ELOISA 
+MATOS ALMORA, GERARDO ANDRÉ 
+ROMERO QUEVEDO, ALEXANDRA YSABEL 
 
 REGRESIÓN LINEAL MÚLTIPLE
      Variable dependiente: Tolerancia hacia la agresividad de la pareja
      Variables independientes  
-         1. Autoestima             		  H0: B=0       H1: B≠0
+         1. Autoestima             	  H0: B=0       H1: B≠0
          2. Compromiso            	 	  H0: B=0       H1: B≠0
          3. Escala de Dependencia    	  H0: B=0       H1: B≠0
          4. Experiencia de Violencia  	  H0: B=0       H1: B≠0
